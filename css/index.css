@@ -231,3 +231,9 @@ button:active {
 footer { background: #002244; color: white; text-align: center; padding: 40px 20px; }
 footer h3 { color: white; } footer p { color: #ddd; }
 
+/* Utilities */
+.section-center { text-align: center; }
+.bg-light-blue { background: #f8fbff; }
+.hidden { display: none; }
+
+
